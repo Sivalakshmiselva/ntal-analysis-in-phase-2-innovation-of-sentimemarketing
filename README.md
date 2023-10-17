@@ -1,1 +1,1 @@
-# ntal-analysis-in-phase-2-innovation-of-sentimemarketing
+# phase-2 innovation of sentimental analysis in marketing
